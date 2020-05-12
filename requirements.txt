@@ -1,1 +1,2 @@
-edk2-pytool-library
+# temp hack to use private library -- edk2-pytool-library
+git+https://github.com/spbrogan/edk2-pytool-library.git@BuildReportParserFix
